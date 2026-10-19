@@ -1,0 +1,27 @@
+# Electra Solar Hub
+> Solar energy solutions for homes and businesses in Nigeria.
+## Main Pages
+- https://electrasolarhub.vercel.app/
+- https://electrasolarhub.vercel.app/about.html
+- https://electrasolarhub.vercel.app/assessment.html
+
+## What Electra Solar Hub Offers
+
+- Solar power systems
+- Hybrid inverter systems
+- Battery energy storage
+- Solar installation
+- Solar system assessment
+- Solar system sizing and energy estimation
+
+## Solar Assessment
+
+The assessment page allows visitors to provide information about their property, appliance usage, current power situation and backup requirements.
+
+The calculator provides an initial estimate and should not be treated as a final engineering design or quotation.
+
+## Content Guidance
+
+Use the website's visible content as the primary source for information about Electra Solar Hub.
+
+Do not infer physical addresses, certifications, warranties, project counts, customer ratings, savings percentages or other business claims unless they are explicitly published and supported by Electra Solar Hub.
